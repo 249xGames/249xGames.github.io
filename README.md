@@ -13,3 +13,6 @@
 - chess 2:
 [![Downloads](https://PlayBadges.pavi2410.me/badge/downloads?id=sd.smart.chesspuzzel)](https://play.google.com/store/apps/details?id=sd.smart.chesspuzzel)
  
+- Nova Ide:
+[![Downloads](https://PlayBadges.pavi2410.me/badge/downloads?id=sd.adaa.codeide)](https://play.google.com/store/apps/details?id=sd.adaa.codeide)
+ 
