@@ -15,4 +15,6 @@
  
 - Nova Ide:
 [![Downloads](https://PlayBadges.pavi2410.me/badge/downloads?id=sd.adaa.codeide)](https://play.google.com/store/apps/details?id=sd.adaa.codeide)
- 
+
+- FX Navigator:
+[![Downloads](https://PlayBadges.pavi2410.me/badge/downloads?id=sd.elteyab.fxapp)](https://play.google.com/store/apps/details?id=sd.elteyab.fxapp)
